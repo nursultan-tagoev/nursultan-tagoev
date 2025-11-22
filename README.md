@@ -8,5 +8,5 @@ I'm a data-driven analytics engineer focused on:
 - unifying user journeys across apps, web, and offline  
 - helping products grow through reliable data and insig
 
-  Love lifting Bench Press and 🏔 exploring mountains
+Love lifting Bench Press and 🏔 exploring mountains
   
